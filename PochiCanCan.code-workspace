@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../PochiCanCan"
+		},
+		{
+			"name": "arduino-CAN",
+			"path": "../../PochiCanCan/arduino-CAN"
+		}
+	],
+	"settings": {}
+}
